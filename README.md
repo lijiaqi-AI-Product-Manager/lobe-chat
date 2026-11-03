@@ -937,3 +937,24 @@ This project is [LobeHub Community License](./LICENSE) licensed.
 [vercel-link]: https://chat-preview.lobehub.com
 [vercel-shield]: https://img.shields.io/badge/vercel-online-55b467?labelColor=black&logo=vercel&style=flat-square
 [vercel-shield-badge]: https://img.shields.io/badge/TRY%20LOBECHAT-ONLINE-55b467?labelColor=black&logo=vercel&style=for-the-badge
+
+<!-- project-growth:start -->
+
+## Repository growth · this fork
+
+The chart tracks Stars on this account's fork. [lijiaqi-AI-Product-Manager/lobe-chat](https://github.com/lijiaqi-AI-Product-Manager/lobe-chat). Star history updates daily. Refresh dates use UTC; Star dates follow GitHub's aggregates.
+
+<a href="https://github.com/lijiaqi-AI-Product-Manager/lobe-chat/stargazers">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lijiaqi-AI-Product-Manager/lijiaqi-AI-Product-Manager/main/assets/growth/lobe-chat/stars-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/lijiaqi-AI-Product-Manager/lijiaqi-AI-Product-Manager/main/assets/growth/lobe-chat/stars-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lijiaqi-AI-Product-Manager/lijiaqi-AI-Product-Manager/main/assets/growth/lobe-chat/stars-dark.svg">
+  <img src="https://raw.githubusercontent.com/lijiaqi-AI-Product-Manager/lijiaqi-AI-Product-Manager/main/assets/growth/lobe-chat/stars-light.svg" width="960" alt="lobe-chat · GitHub Star history">
+</picture>
+</a>
+
+This project has no published npm/PyPI package to track.
+
+[Data sources and metric definitions](https://github.com/lijiaqi-AI-Product-Manager/lijiaqi-AI-Product-Manager/blob/main/docs/growth.md)
+
+<!-- project-growth:end -->
